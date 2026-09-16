@@ -1,0 +1,28 @@
+{
+  "version": "2.6.2",
+  "release_version": "1.0",
+  "released_at": "2026-09-15",
+  "summary": {
+    "title": "Permit-to-Pay APP",
+    "owner": "Cameron Harrington",
+    "description": "Permit-to-pay web extension that uses vision AI and deterministic fill actions",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Permit to Pay",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": []
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
